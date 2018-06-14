@@ -1,4 +1,4 @@
 # yeeeee
-just a rat spawner
+just another rat spawner
 
 https://svenanders.github.io/yeeeee/
